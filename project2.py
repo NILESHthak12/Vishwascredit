@@ -10,3 +10,7 @@ while True:
 x=5
 y=6
 print(x+y)
+print(z)
+
+print(x)
+print(y)
